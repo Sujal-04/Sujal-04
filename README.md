@@ -1,6 +1,10 @@
 # 💫 About Me:
 I’m Sujal Shinde, a Computer Engineering student passionate about full-stack development and AI-driven solutions. I like experimenting with modern technologies, creating practical projects, and understanding how software can make everyday tasks more efficient. Currently, I’m focused on strengthening my fundamentals while continuously learning and improving.
 
+### 🎓 Education
+**B.E. Computer Engineering**  
+_FCRIT, Vashi (2023 - 2026)_  
+- Deep interest in AIML domain and Full Stack Development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.sujal._04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/sujal04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalshinde042005@gmail.com) 
